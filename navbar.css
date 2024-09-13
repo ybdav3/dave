@@ -7,7 +7,8 @@
 body{
     height: 100vh;
     background-color: #000;
-    background-image: url(IMAGE/random-best-photo_865967-169267.jpeg);
+    background: gray;
+    /* background-image: url(IMAGE/random-best-photo_865967-169267.jpeg); */
     background-size: cover;
     background-position: center;
 }
